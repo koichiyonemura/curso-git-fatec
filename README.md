@@ -7,7 +7,11 @@
 
 
 ##Experiencia
+- Programador Java na empresa XPTO 
+ (Inicio abril/2015 - Término abril/2016)
 
+- Açougueiro na empresa AEIOU
+ (Inicio janeiro/2014 - Término setembro/2014)
 
 ##Skills
 
