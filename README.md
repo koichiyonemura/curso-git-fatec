@@ -39,3 +39,8 @@
            
 
 ##Ultimos livros
+
+- Information Tecnology
+- NoSQL Distilled
+- Redes de Computadores
+
