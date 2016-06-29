@@ -33,7 +33,7 @@
            
            
            Conversação : Boa;
-           Escrita     : Razável;
+           Escrita     : Razoável;
            Leitura     : Razoável;
            Escuta      : Boa.
            
