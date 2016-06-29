@@ -21,7 +21,7 @@
 
 - Idiomas: 
 
-- Inglês
+ Inglês
  
 
             Conversação : Razoável;
@@ -29,7 +29,7 @@
             Leitura     : Razoável;
             Escuta      : Razoável.
 
-- Japonês
+ Japonês
            
            
            Conversação : Boa;
