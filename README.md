@@ -19,7 +19,9 @@
 - Conhecimento nos bancos de dados: Oracle, MySQL, MongoDB.
 
 
-- Idiomas: Inglês
+- Idiomas: 
+
+- Inglês
  
 
             Conversação : Razoável;
@@ -27,7 +29,7 @@
             Leitura     : Razoável;
             Escuta      : Razoável.
 
--           Japonês
+- Japonês
            
            
            Conversação : Boa;
